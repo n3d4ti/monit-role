@@ -1,0 +1,7 @@
+*
+
+!.gitignore
+!defaults/main.yml
+!tasks/main.yml
+!tasks/install-Debian.yml
+!LICENSE
